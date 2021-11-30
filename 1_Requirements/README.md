@@ -29,13 +29,17 @@ This process is to count the minimum time recommended by the health authorities 
              Included suction cup can be placed on bottom, on back, or WASH can be used without touching.
              Beep alerts at each step optional.
              Can access for 24/7 and Easy to operate.
-             
-             require less time than hand washing
-act quickly to kill microorganisms on hands
-are more accessible than sinks
-reduce bacterial counts on hands
-do not promote antimicrobial resistance
-are less irritating to skin than soap and water
-some can even improve condition of skin
+            
+# SWOT Analysis
+
+## Strength
+
+             >Require less time than hand washing.
+             >Act quickly to kill microorganisms on hands.
+             >Are more accessible than sinks.
+             >Reduce bacterial counts on hands
+             >Do not promote antimicrobial resistance.
+             >Rre less irritating to skin than soap and water.
+             >some can even improve condition of skin.
 
  
