@@ -41,5 +41,76 @@ This process is to count the minimum time recommended by the health authorities 
              >Do not promote antimicrobial resistance.
              >Rre less irritating to skin than soap and water.
              >some can even improve condition of skin.
+             
+## Weakness
+             
+             Circuit may get damage.
+             Needs Power supply frequently.
+             Not designed for underwater use.
+             Sensing accuracy affected by soft materials.
+
+## Oportunities
+
+             They have greater accuracy than many other methods at measuring thickness and distance to a parallel surface.
+             
+             Their high frequency, sensitivity, and penetrating power make it easy to detect external or deep objects
+             
+             Our ultrasonic sensors are easy to use and not dangerous during operation to nearby objects, people or equipment.
+             
+             Our sensors easily interface with microcontrollers or any type of controller. Sense an hand and pour liquid soap 
+             
+             for 20 sec and get auto off.
+             
+## Threats
+
+             Limited testing distance.
+             Inaccurate readings.
+             Inflexible scanning methods.
+             
+# 4W's and 1H
+
+## Who
+
+     For peoples general use to washing hands.
+     
+## Where
+ 
+     Both Public and Private usage.
+     
+## What
+
+     Auto touchless HandWashing Timer.
+     
+## When
+
+     Every day Every time Every where only when detects an object.
+     
+## How
+
+     Product with fully automated and controlled.
+     
+# High Level Requirements
+
+      RID	       DESCRIPTION	   STATUS
+      HLR1	       ATMEGA 328p	   Implemented
+      HLR2	       C language	   Implemented
+      HLR3	       Ultrasonic sensor   Implemented
+      
+# Low Level Requirements
+
+      RID	       DESCRIPTION	    STATUS
+      LLR1	       Timer settings       Implemented
+      LLR2	       Beep/sound           Implemented
+      LLR3	       LCD Display	    Implemented
+
+
+
+
+     
+     
+     
+   
+
+
 
  
