@@ -14,6 +14,8 @@
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/Manakshni/M2_Embedded_Touchless-Handwash-Timer/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Manakshni/M2_Embedded_Touchless-Handwash-Timer/actions/workflows/c-cpp.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/Manakshni/M2_Embedded_Touchless-Handwash-Timer/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Manakshni/M2_Embedded_Touchless-Handwash-Timer/actions/workflows/gitinspector.yml)
+
 # 1_Requirements
 
 ## INTRODUCTION
