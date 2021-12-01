@@ -1,5 +1,7 @@
 # M2_Embedded_Touchless-Handwash-Timer
 
+## BADGES
+
 ![codiga](https://api.codiga.io/project/30224/score/svg)
 
 ![codiga](https://api.codiga.io/project/30224/status/svg)
