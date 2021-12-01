@@ -1,4 +1,4 @@
-DOXY_FILE = handwash
+DOXY_FILE = Touchlesswash
 BUILD_FILE = html
 
 FixPath = $(subst /,\,$1)
