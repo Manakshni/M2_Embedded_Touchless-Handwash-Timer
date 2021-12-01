@@ -8,4 +8,4 @@
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/Manakshni/M2_Embedded_Touchless-Handwash-Timer/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Manakshni/M2_Embedded_Touchless-Handwash-Timer/actions/workflows/c-cpp.yml)
 
-[![Code Quality - Static Code - Cppcheck](https://github.com/Manakshni/M2_Embedded_Touchless-Handwash-Timer/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Manakshni/M2_Embedded_Touchless-Handwash-Timer/actions/workflows/c-cpp.yml)
+
