@@ -180,6 +180,10 @@ Folder          | Description
 ![image](https://user-images.githubusercontent.com/94229525/144297403-a255f3dd-5bf7-4d52-9394-919ea69145f5.png)
 
                 Figure:Touchless Handwash Timer with Ultrasonic Sensor and atmega 328p
+                
+ # Simulation
+ ![image](https://user-images.githubusercontent.com/94229525/144404827-7b8c0777-99ad-411f-9f45-afaaacf3fe70.png)
+
 
 
 
