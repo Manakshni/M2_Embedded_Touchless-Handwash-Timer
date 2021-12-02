@@ -4,5 +4,7 @@
 
                 Figure:Touchless Handwash Timer with Ultrasonic Sensor and atmega 328p
                 
+# Simulation output
+
 ![image](https://user-images.githubusercontent.com/94229525/144432414-626afb27-0d2f-42d9-8992-0ca6e970396d.png)
 
