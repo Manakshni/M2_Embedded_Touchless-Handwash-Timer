@@ -20,6 +20,9 @@ This process is to count the minimum time recommended by the health authorities 
              
              *Cheaper touchless taps that use inferior parts can present all sorts of problems.
              
+## Research
+            To enhance the level of hygiene wherever applicable.  To increase the level of awareness of people as regards to the proper washing and drying of hands in accordance             with the policy of the National Orientation Agency in Nigeria.  To solve a considerable fraction of the problems associated with washing and drying of hands, so as               to reduce the risk of disease transfer, between individuals.  To  expose  the  fact  that  the  proper  washing and  drying  of  hands  after    holding objects,                 using   the toilet and even transfer/exchanging money between individuals, will  geometrically  reduce  the  rate  and/or  presence  of  ill  health  in  the  area  in question.
+             
 ## Features
 
              Total 20 second duration.
@@ -29,6 +32,9 @@ This process is to count the minimum time recommended by the health authorities 
              Included suction cup can be placed on bottom, on back, or WASH can be used without touching.
              Beep alerts at each step optional.
              Can access for 24/7 and Easy to operate.
+             
+## Cost
+             Due  to  the  constant  maintenance  and refills  that  come  along  with  paper  towel dispensers, automatic hand Washer are cost-effective solutions. Not only must paper towels be refilled, but there are also costs associated with the production and clean-up of paper towels. For example additional trash bags and cleaning products are needed to dispose of the  paper towels  and reduce  the  spread of  germs through  towels  left on  counter  tops. maintenance, decreasing the total cost for maintaining the restroom.
             
 # SWOT Analysis
 
